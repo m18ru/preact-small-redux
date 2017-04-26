@@ -5,7 +5,7 @@ Preact bindings for Small-Redux.
 Simple and compact bindings to use [preact](https://github.com/developit/preact)
 with [small-redux](https://github.com/m18ru/small-redux).
 
-This bindings is not simular to classic `react-redux` API. If you want to use
+This bindings is not similar to classic `react-redux` API. If you want to use
 similar implementation, you can use
 [preact-small-redux-classic](https://github.com/m18ru/preact-small-redux-classic)
 package.
